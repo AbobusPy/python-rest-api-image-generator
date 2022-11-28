@@ -1,6 +1,6 @@
 # python-rest-api-image-generator
 
-[code]My mini image generator with text by api for python[code]
+`My mini image generator with text by api for python`
 
 
 |<center>METHOD</center>|parameters|Description         |Required|
