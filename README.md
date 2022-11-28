@@ -9,6 +9,5 @@
 |                       |text      |Specify the text    |String  |
 |                       |color     |Set font color      |Optional|
 
-`
-http://localhost/image`
+`http://localhost/image`
 [Developer - AbobusPy](https://github.com/AbobusPy)
