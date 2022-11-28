@@ -1,10 +1,7 @@
 # python-rest-api-image-generator
 
-<center>My mini image generator with text by api for python</center>
+## My mini image generator with text by api for python
 
-
-
-<center>
 
 |<center>METHOD</center>|parameters|Description         |Required|
 |-----------------------|----------|--------------------|--------|
@@ -13,6 +10,5 @@
 |                       |color     |Set font color      |Optional|
 
 http://localhost/image
-</center>
 
-[Developer - AbobusPy]()
+[Developer - AbobusPy](https://github.com/AbobusPy)
